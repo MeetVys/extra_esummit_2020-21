@@ -58,10 +58,10 @@ html, body {
 }
 .panel_type_content{
     font-family: Roboto;
-    font-size: 35px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 500;
-    line-height: 53px;
+    line-height: 33px;
     letter-spacing: 0em;
     text-align: center;
     font-family: Roboto;
@@ -71,10 +71,10 @@ html, body {
 @media screen and (max-width: 768px){
     .panel_type_content{
         font-family: Roboto;
-        font-size: 25px;
+        font-size: 17px;
         font-style: normal;
         font-weight: 500;
-        line-height: 33px;
+        line-height: 23px;
         letter-spacing: 0em;
         text-align: center;
         font-family: Roboto;
